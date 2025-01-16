@@ -20,4 +20,4 @@
 ### 💪 Every great coder was once a beginner who didn’t quit. Keep pushing, keep learning, and remember—every bug you squash today is a step closer to becoming the developer you aspire to be. Your journey is uniquely yours, and every line of code you write adds to your story.
 
 # My Motivation
-### 🔥 ***Work in silence, let your success be your noise.***
+### 🔥 ***Work in silence, let your success make the noise.***
