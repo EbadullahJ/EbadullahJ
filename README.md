@@ -1,5 +1,5 @@
 ## About Me
-### 👋 Hi, I’m **@EbadullahJ**
+### 👋 Hi, I’m **Ebadullah Jamal**
 
 ## Interests
 ### 👀 I’m interested in specifically coding computer languages such as **JavaScript**, **TypeScript**, **Python**, etc.
